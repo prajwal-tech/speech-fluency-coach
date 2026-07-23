@@ -1,0 +1,8 @@
+timestamp,client_label,language,word_count,duration_sec,words_per_minute,filler_count,filler_ratio,pause_count,avg_pause_sec,fluency_score
+2026-07-22T09:31:54.171064,client-01,English,8,5.6,85.1,0,0.0,2,0.45,57
+2026-07-22T09:34:35.984004,client-01,English,8,5.6,85.1,0,0.0,2,0.45,57
+2026-07-22T09:36:29.615243,client-01,English,6,6.7,53.6,0,0.0,2,0.48,9
+2026-07-22T09:49:07.947767,client-01,English,4,6.1,39.2,0,0.0,3,0.69,0
+2026-07-22T09:52:37.433675,client-01,English,6,9.1,39.7,0,0.0,4,0.94,16
+2026-07-22T09:53:30.339203,client-01,English,7,5.2,80.5,0,0.0,1,0.32,55
+2026-07-22T10:02:07.996987,client-01,English,7,6.8,61.4,0,0.0,2,0.8,37
